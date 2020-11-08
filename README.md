@@ -1,10 +1,15 @@
 # A basic framework to run selenium tests for Chrome, Firefox and IE(Selenium+TestNG+Maven)
 
-# Table of contents
-* [Pre-tests requirements](#Tests requirements)
-* [To run tests from IDE](#To run tests from IDE)
-* [To run tests from Maven](#To run tests from Maven)
- 
+
+Table of contents
+=================
+
+<!--ts-->
+* [Tests requirements](#tests-requirements)
+* [To run tests from IDE](#to-run-tests-from-ide)
+* [To run tests from Maven](#to-run-tests-from-maven)
+<!--te-->
+
  
 ## Tests requirements
 1. Java 8 should be pre-installed. Please check such points:
